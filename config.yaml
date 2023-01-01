@@ -1,0 +1,49 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "小书虫和ta的朋友们"
+theme: "hugo-xmag"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+enableEmoji: true
+paginate: 9
+
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Categories
+      url: /categories/
+      weight: 3
+    - name: Tags
+      url: /tags/
+      weight: 4
+    - name: Subscribe
+      url: /index.xml
+
+params:
+  description: "这是小书虫和 TA 的朋友们读书群的博客。"
+  footer: "&copy; 小书虫和TA的朋友们 2022 - 2023 | [Github](https://github.com/Shitao5)"
+  github_edit: "https://github.com/Shitao5/shuchong-blog/edit/master/content/"
+  summary_length: 300
+  text:
+    back: "&larr; 返回主页"
+    edit: "编辑此页 &rarr;"
+    truncated: "&hellip;"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
