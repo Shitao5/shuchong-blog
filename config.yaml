@@ -34,7 +34,7 @@ menu:
 params:
   description: "这是小书虫和 TA 的朋友们读书群的博客。"
   footer: "&copy; 小书虫和TA的朋友们 2022 - 2023 | [Github](https://github.com/Shitao5)"
-  github_edit: "https://github.com/Shitao5/shuchong-blog/edit/master/content/"
+  github_edit: "https://github.com/Shitao5/shuchong-blog/edit/main/content/"
   summary_length: 300
   text:
     back: "&larr; 返回主页"
