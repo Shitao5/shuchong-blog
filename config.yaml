@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "小书虫和ta的朋友们"
+title: "READER"
 theme: "hugo-xmag"
 googleAnalytics: ""
 disqusShortname: ""
@@ -37,7 +37,7 @@ params:
   github_edit: "https://github.com/Shitao5/shuchong-blog/edit/main/content/"
   summary_length: 300
   text:
-    back: "&larr; 返回主页"
+    back: "&larr; 返回首页"
     edit: "编辑此页 &rarr;"
     truncated: "&hellip;"
 
