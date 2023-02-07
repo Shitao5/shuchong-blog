@@ -21,8 +21,8 @@
 
 <table>
   <tr>
-    <td><center><img src="content/st5.png" width = 300 /><br>诗涛的微信</center></td>
-    <td><center><img src="content/happywang.jpg" width = 350 /><br>王兴的微信</center></td>
+    <td><center><img src="https://s2.loli.net/2023/02/07/PBwtDUhOARNjIbp.png" width = 300 /><br>诗涛的微信</center></td>
+    <td><center><img src="https://s2.loli.net/2023/02/07/tvIEwFYjdreafMi.jpg" width = 350 /><br>王兴的微信</center></td>
   </tr>
 </table>
 
